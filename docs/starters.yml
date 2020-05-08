@@ -6201,3 +6201,11 @@
     - Sitemap Generation
     - XML Sitemaps
     - Progressive Web Ap
+- url: https://github.com/joshuap/gatsby-starter-roam
+  repo: https://github.com/joshuap/gatsby-starter-roam
+  description: A Gatsby starter for your Roam Research database.
+  tags:
+    - Roam
+  features:
+    - Generates a page for each page in Roam
+    - Index listing of all pages
